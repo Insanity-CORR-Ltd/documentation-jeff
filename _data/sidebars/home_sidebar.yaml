@@ -20,4 +20,8 @@ entries:
     - title: Camera
       url: /camera.html #change later
       output: web
+    - title: Physical Animation
+      url: /physicalanimation.html
+      output: web
+
 # Copyright 2021 Google LLC

@@ -33,6 +33,10 @@ summary {
     display: block
 }
 
+typeblock {
+    display: box
+}
+
 audio,
 canvas,
 progress,
