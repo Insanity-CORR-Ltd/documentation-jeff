@@ -5,23 +5,66 @@ entries:
   levels: one
   folders:
 
-  - title: General
+  - title: Project Overview
     output: web
     folderitems:
-    - title: Home
+    - title: About
       url: /index.html
       output: web
-    - title: Documentation Template
+    - title: Documentation Standards
+      url: # insert URL for page
+      output: web
+    - title: Feature Documentation Template
       url: /doctemplate.html
       output: web
-  - title: Camera, Character, Controls
+  - title: Feature Documentation
     output: web
     folderitems:
+    - title: Overview
+      url: /featuresoverview.html
+      output: web
+    - title: Animation
+      url: /animation.html
+      output: web
     - title: Camera
       url: /camera.html #change later
       output: web
-    - title: Physical Animation
-      url: /physicalanimation.html
+    - title: Character Controller
+      url: /charactercontroller.html
       output: web
+    - title: Conveyor Belts
+      url: /conveyorbelts.html
+      output: web
+    - title: Damage and Heat System
+      url: /damagesystem.html
+      output: web
+    - title: Event System (buttons, levers)
+      url: /eventsystem.html
+      output: web
+    - title: Magnetism
+      url: /magnetism.html
+      output: web
+    - title: Menu Navigation
+      url: /menunavigation.html
+      output: web
+    - title: Level Selection
+      url: /levelselection.html
+      output: web
+    - title: HUD
+      url: /hud.html
+      output: web
+  - title: Coding Conventions and Standards # Make tags for folder items so we can link pages to them
+    output: web
+    folderitems:
+    - title: Coding Conventions
+      url: /codingconventions.html
+      output: web
+    - title: Data Handling (MVVM)
+      url: /mvvm.html
+      output: web
+
+- title: 
+  url: # don't forget the / (forward slash), otherwise the sidebar collapses
+  output: web
 
 # Copyright 2021 Google LLC
