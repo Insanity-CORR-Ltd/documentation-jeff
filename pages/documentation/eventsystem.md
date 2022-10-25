@@ -8,3 +8,5 @@ sidebar:
 permalink: eventsystem.html
 folder: documentation
 ---
+
+# Maybe this goes into coding conventions instead

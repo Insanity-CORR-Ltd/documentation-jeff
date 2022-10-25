@@ -24,6 +24,9 @@ Summarize the goal system
 ## Dependencies
 What is this entity/component dependent on?
 
+## Architecture
+Describe how things should be structured, if need be
+
 ## Psuedocode
 Desrcribe system in pseudocode if need be
 ```cs
