@@ -9,7 +9,7 @@ topnav_title: Headless JEFF-3 Technical Design
 site_title: JEFF-3 TDD
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Copyright 2022 Insanity Corr LLC
+company_name: Copyright 2022 Insanity Corr Ltd
 # this appears in the footer
 
 host: 127.0.0.1
