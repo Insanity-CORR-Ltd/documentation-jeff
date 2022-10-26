@@ -38,22 +38,16 @@ entries:
     - title: Damage and Heat System
       url: /damagesystem.html
       output: web
-    - title: Event System (buttons, levers)
-      url: /eventsystem.html
-      output: web
     - title: Magnetism
       url: /magnetism.html
       output: web
     - title: Menu Navigation
       url: /menunavigation.html
       output: web
-    - title: Level Selection
-      url: /levelselection.html
-      output: web
     - title: HUD
       url: /hud.html
       output: web
-  - title: Coding Conventions and Standards # Make tags for folder items so we can link pages to them
+  - title: Coding Conventions and Design Patterns # Make tags for folder items so we can link pages to them
     output: web
     folderitems:
     - title: Coding Conventions
@@ -66,5 +60,3 @@ entries:
 - title: 
   url: # don't forget the / (forward slash), otherwise the sidebar collapses
   output: web
-
-# Copyright 2021 Google LLC
