@@ -11,6 +11,10 @@ folder: documentation
 
 {% include note.html content="Could benefit from a diagram, might not need to be here" %}
 
+## Navigation
+
+Create some static script or funciton library that can be called from anywhere to help reduce duplicate code. This may include other functionality, such as insantiating a popup dialogue to confirm the user's choice, etc.
+
 ## Main Menu
 
 ### Levels
