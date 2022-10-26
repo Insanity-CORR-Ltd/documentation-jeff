@@ -1,5 +1,6 @@
 ---
 title: Animation
+type: System
 # tags: [template]
 keywords: doc
 sidebar: 
@@ -15,6 +16,8 @@ Requires a rigged model, as well as an Animation component, and Physical Animati
 
 Jeff will have animations blended with Physical Animations in order to allow jeff to react to the enviroment. Jeff will also be IK capable in order for interaction with objects, such as crates and his own head, to feel natural. As with most game animation, Jeff will have multiple animation states to handle what animation is playing, and how much the physical animation is blended with the source animation. Different settings should also be able to be overwritten, such as IK and the physical animation blend, to allow more control.
 
+An animation controller will be implemented to simplify calls to change states and provide a level of abstraction between the animation state machine and the player controller
+
 ## Implementation Goals
 
 - Dynamically Interact with Environment
@@ -29,10 +32,6 @@ There are multiple ways Physical Animations are achieved- in our case, we will p
 [//]: # (    - add sauce)
 [//]: # (<h3 style="color:gray">Disadvantages</h3>)
 [//]: # (    - sometimes soggy spaghetti)
-
-## General Implementation
-
-
 
 ## Unreal Specific Implementation
 
