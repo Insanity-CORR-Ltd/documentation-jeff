@@ -11,9 +11,6 @@ entries:
     - title: About
       url: /index.html
       output: web
-    - title: Documentation Standards
-      url: # insert URL for page
-      output: web
     - title: Feature Documentation Template
       url: /doctemplate.html
       output: web
@@ -53,9 +50,22 @@ entries:
     - title: Coding Conventions
       url: /codingconventions.html
       output: web
-    - title: Data Handling (MVVM)
-      url: /mvvm.html
+    - title: Collaboration Rules
+      url: /gitrules.html
       output: web
+    - title: Folder Structure
+      url: /folderstructure.html
+      output: web
+    - title: Technical Risks
+      url: /risks.html
+      output: web
+      subfolders:
+      - title: Design Patterns
+        output: web
+        subfolderitems:      
+        - title: Data Handling (MVVM)
+          url: /mvvm.html
+          output: web
 
 - title: 
   url: # don't forget the / (forward slash), otherwise the sidebar collapses

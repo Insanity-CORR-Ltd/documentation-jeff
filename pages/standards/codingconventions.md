@@ -9,6 +9,8 @@ permalink: codingconventions.html
 folder: standards
 ---
 
+# [Unreal Coding Standards](https://docs.unrealengine.com/5.0/en-US/epic-cplusplus-coding-standard-for-unreal-engine/)
+
 ## Design Patterns
 
 Use design patterns where you can but they aren't do or die
