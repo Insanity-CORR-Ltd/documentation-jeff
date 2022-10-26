@@ -7,7 +7,11 @@ permalink: animation.html
 folder: documentation
 ---
 
-## Overview
+## Dependencies
+
+Requires a rigged model, as well as an Animation component, and Physical Animation component
+
+## Description
 
 Jeff will have animations blended with Physical Animations in order to allow jeff to react to the enviroment. Jeff will also be IK capable in order for interaction with objects, such as crates and his own head, to feel natural. As with most game animation, Jeff will have multiple animation states to handle what animation is playing, and how much the physical animation is blended with the source animation. Different settings should also be able to be overwritten, such as IK and the physical animation blend, to allow more control.
 
