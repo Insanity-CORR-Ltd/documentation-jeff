@@ -45,6 +45,6 @@ While Hot Reload is a feature both in Visual Studio and Unreal, sometimes it doe
 
 There is an extension for Visual Studio that helps with Unreal C++ development.
 
-### Modules
+### [Modules](https://www.youtube.com/watch?v=3PBnqC7TxvM&ab_channel=UnrealEngine)
 
 Modules are like small libraries that only compile when they are changed. They significantly reduce the compile time when you need to recompile game code. Take a look at the Unreal documentation on how to get started with modudles.
