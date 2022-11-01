@@ -9,9 +9,15 @@ folder: standards
 # yoink branching policy image
 ---
 
+## For Arists
+Create branches based on the assets you are adding. Also, try not to touch any levels/scenes, only work on your own files and make sure you follow the pull request guidelines.
+
 ## Feature Branches
 
 {% include image.html file="github-branches.jpg" alt="Branching Policy" caption="Branching Policy" %}
+
+### Naming
+Name feature branches with a `dev_` prefix to make it clear that they are features. Otherwise, follow the naming conventions in the above pictures.
 
 ## Pull Requests
 
