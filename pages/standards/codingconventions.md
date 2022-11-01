@@ -47,4 +47,7 @@ There is an extension for Visual Studio that helps with Unreal C++ development.
 
 ### Modules
 
-Modules are like small libraries that only compile when they are changed. They significantly reduce the compile time when you need to recompile game code. Take a look at the Unreal documentation on how to get started with modudles.
+Modules are like small libraries that only compile when they are changed. They significantly reduce the compile time when you need to recompile game code. Take a look at the Unreal documentation on how to get started with modules.
+
+{% include note.html content="Modules are useful, but their use case is for portions of gameplay that should be togglable. Don't overuse them!" %}
+
