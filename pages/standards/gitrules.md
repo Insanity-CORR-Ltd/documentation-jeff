@@ -30,3 +30,5 @@ Squashing can also be dangerous if merge commits somehow get mixed up in them, b
 ## Feature Ownership
 
 The programmer that creates the feature is responsible for maintaining the feature, and is also responsible to answer any questions about the implementation.
+
+[Developer Folders for Unreal might be something worth trying out.](https://www.youtube.com/watch?v=BTCbYsXh-rY)
