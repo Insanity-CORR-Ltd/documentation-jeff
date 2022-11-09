@@ -44,6 +44,24 @@ entries:
     - title: HUD
       url: /hud.html
       output: web
+  - title: Systems Planning
+    output: web
+    folderitems:
+    - title: Achievement Manager
+      url: achievementmanager.html
+      output: web
+    - title: Dialogue
+      url: dialogue.html
+      output: web
+    - title: Level Streaming
+      url: levelstreaming.html
+      output: web
+    - title: Level Completion Event System
+      url: eventsystem.html
+      output: web
+    - title: Navigation Manager
+      url: navigationmanager.html
+      output: web
   - title: Coding Conventions and Design Patterns # Make tags for folder items so we can link pages to them
     output: web
     folderitems:

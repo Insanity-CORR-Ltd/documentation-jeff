@@ -50,7 +50,6 @@ it can be accomplished with inserting the following line where you would like th
 
     {% raw %}{% include note.html content="An Example Note" %}{% endraw %}
 
-
 ## Creating a Tag
 
 Creating a Tag requires creating a new Markdown page in the "tags" folder, with the following:
