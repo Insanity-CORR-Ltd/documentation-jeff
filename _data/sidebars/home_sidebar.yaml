@@ -47,6 +47,9 @@ entries:
   - title: Systems Planning
     output: web
     folderitems:
+    - title: Execution Flow
+      url: executionflow.html
+      output: web
     - title: Achievement Manager
       url: achievementmanager.html
       output: web
