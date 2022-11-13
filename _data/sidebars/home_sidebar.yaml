@@ -65,6 +65,9 @@ entries:
     - title: Navigation Manager
       url: navigationmanager.html
       output: web
+    - title: Saving and Loading
+      url: saveandload.html
+      output: web
   - title: Coding Conventions and Design Patterns # Make tags for folder items so we can link pages to them
     output: web
     folderitems:
