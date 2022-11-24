@@ -13,6 +13,10 @@ folder: documentation
 
 Needs some sort of procedural mesh system in place that allows a spine system to dictate the curvature of the belt. Additionally, the ability to place ends of the belt.
 
+The system must create any given number of middle sections of the mesh along a specific path, update those meshes in a reasonable and optimal time frame, and then be used by the engine's collision system to determine how to move objects that interact with it.
+
+[Blueprint Tutorial for Unreal](https://www.youtube.com/watch?v=1ksgB6hYGrE&ab_channel=UnrealEngine)
+
 ## Description
 
 A free-form conveyor belt, complete with tool that allows us to create them procedurally.
