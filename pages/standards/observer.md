@@ -15,6 +15,8 @@ The observer pattern is a way to propogate events to multiple modules of functio
 
 Functional programming basically means treating functions as objects. The advantage of doing this is you can create small anonymous functions (lambda expressions) and pass them as arguments to other functions. This pattern is called a callback and is exactly how the observer pattern works.
 
+This examples shows multiple ways of attaching a function to an event- Two Lambda functions and a seperately defined function
+
 ```cs
 //,..
 [SerializedField] UnityEvent myEvent;

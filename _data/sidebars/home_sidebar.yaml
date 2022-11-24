@@ -56,11 +56,11 @@ entries:
     - title: Dialogue
       url: /dialogue.html
       output: web
+    - title: Event System
+      url: /eventsystem.html
+      output: web
     - title: Level Streaming
       url: /levelstreaming.html
-      output: web
-    - title: Level Completion Event System
-      url: /eventsystem.html
       output: web
     - title: Navigation Manager
       url: /navigationmanager.html
