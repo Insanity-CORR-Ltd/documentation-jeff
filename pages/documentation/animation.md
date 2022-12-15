@@ -32,7 +32,7 @@ There are multiple ways Physical Animations are achieved- originally, Jeff was m
   - add sauce
 <h3 style="color:gray">Disadvantages</h3>
   - sometimes soggy spaghetti
-
+-->
 ## Unreal Specific Implementation
 
 In order to achieve the [implementation goals](#implementation-goals) outlined above, there are a number of systems which need to be set up. Luckily, unreal provides us the tools necessary, however there is still setup involved.
