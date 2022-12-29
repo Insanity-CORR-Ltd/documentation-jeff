@@ -90,6 +90,9 @@ entries:
         - title: Data Handling (MVVM)
           url: /mvvm.html
           output: web
+        - title: Observer Pattern
+          url: /observer.html
+          output: web
 
 - title: 
   url: # don't forget the / (forward slash), otherwise the sidebar collapses
