@@ -65,7 +65,7 @@ The dialogue handler would then iterate through each node, moving to the next no
 
 [Cradle]: https://github.com/daterre/Cradle
 
-[All-Inclusive Dialogue System]: https://www.unrealengine.com/marketplace/en-US/product/not-yet-dialogue-system?sessionInvalidated=true
+[All-Inclusive Dialogue System]: https://www.unrealengine.com/marketplace/en-US/product/all-inclusive-dialogue-system
 
 [Not Yet]: https://www.unrealengine.com/marketplace/en-US/product/not-yet-dialogue-system
 
