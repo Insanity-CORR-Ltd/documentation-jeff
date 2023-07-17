@@ -35,6 +35,8 @@ There are a couple of notable dialogue writing tools that could be considered fo
 There are multiple implementations that exist on the [Unreal Marketplace];
 Some notable systems include [Not Yet], as well as [All-Inclusive Dialogue System]. However these systems rely on in-editor tools to create dialogue, and are limited in their extensibility.
 
+Not Yet: Dialogue is also available on [Github](https://github.com/NotYetGames/DlgSystem), and is free to use and publish under the MIT License. The plugin is completely open source as well, meaning any functionality that is missing or needs to be extended can be added.
+
 ## General Implementation
 
 A general dialogue implementation will have a class to define a node, which contains necessary information and functions, which include:
