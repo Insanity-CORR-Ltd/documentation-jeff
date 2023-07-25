@@ -20,9 +20,6 @@ entries:
     - title: Overview
       url: /featuresoverview.html
       output: web
-    - title: Animation
-      url: /animation.html
-      output: web
     - title: Camera
       url: /camera.html #change later
       output: web
@@ -40,6 +37,15 @@ entries:
       output: web
     - title: Menu Navigation
       url: /menunavigation.html
+      output: web
+    - title: Player Animation
+      url: /playeranimation.html
+      output: web
+    - title: Terminals
+      url: /terminalsystem.html
+      output: web
+    - title: Devices and Power Sources
+      url: /powersystem.html
       output: web
     - title: HUD
       url: /hud.html

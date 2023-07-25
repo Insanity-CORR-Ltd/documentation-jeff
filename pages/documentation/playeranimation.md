@@ -1,10 +1,10 @@
 ---
-title: Animation
+title: Player Animation
 type: System
 # tags: [template]
 keywords: doc
 sidebar: 
-permalink: animation.html
+permalink: playeranimation.html
 folder: documentation
 ---
 
