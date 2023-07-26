@@ -20,11 +20,26 @@ entries:
     - title: Overview
       url: /featuresoverview.html
       output: web
+      subfolders:
+      - title: Player
+        output: web
+        subfolderitems:
+        - title: Character Controller
+          url: /charactercontroller.html
+          output: web
+        - title: Player Animation
+          url: /playeranimation.html
+          output: web
+      subfolders:
+      - title: Terminal System
+        output: web
+        subfolderitems:
+      subfolders:
+      - title: Power System
+        output: web
+        subfolderitems:
     - title: Camera
       url: /camera.html #change later
-      output: web
-    - title: Character Controller
-      url: /charactercontroller.html
       output: web
     - title: Conveyor Belts
       url: /conveyorbelts.html
@@ -37,9 +52,6 @@ entries:
       output: web
     - title: Menu Navigation
       url: /menunavigation.html
-      output: web
-    - title: Player Animation
-      url: /playeranimation.html
       output: web
     - title: Terminals
       url: /terminalsystem.html
@@ -62,9 +74,9 @@ entries:
     - title: Dialogue
       url: /dialogue.html
       output: web
-    - title: Event System
-      url: /eventsystem.html
-      output: web
+    # - title: Event System
+    #   url: /eventsystem.html
+    #   output: web
     - title: Level Streaming
       url: /levelstreaming.html
       output: web
