@@ -5,7 +5,7 @@ type: System
 summary: "Template for how to document a system"
 keywords: doc
 sidebar: 
-permalink: camera.html
+permalink: cameramanager.html
 folder: documentation
 ---
 

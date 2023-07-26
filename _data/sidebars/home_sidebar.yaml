@@ -21,31 +21,20 @@ entries:
       url: /featuresoverview.html
       output: web
       subfolders:
-      - title: Player
+      - title: Conveyor System
         output: web
         subfolderitems:
-        - title: Character Controller
-          url: /charactercontroller.html
+        - title: Conveyor Belts Overview
+          url: /conveyorbelts.html
           output: web
-        - title: Player Animation
-          url: /playeranimation.html
-          output: web
-      subfolders:
-      - title: Terminal System
-        output: web
-        subfolderitems:
-      subfolders:
-      - title: Power System
-        output: web
-        subfolderitems:
-    - title: Camera
-      url: /camera.html #change later
-      output: web
-    - title: Conveyor Belts
-      url: /conveyorbelts.html
+    - title: Camera Manager
+      url: /cameramanager.html #change later
       output: web
     - title: Damage and Heat System
       url: /damagesystem.html
+      output: web
+    - title: HUD
+      url: /hud.html
       output: web
     - title: Magnetism
       url: /magnetism.html
@@ -53,15 +42,28 @@ entries:
     - title: Menu Navigation
       url: /menunavigation.html
       output: web
-    - title: Terminals
-      url: /terminalsystem.html
-      output: web
-    - title: Devices and Power Sources
-      url: /powersystem.html
-      output: web
-    - title: HUD
-      url: /hud.html
-      output: web
+      subfolders:
+      - title: Player Character
+        output: web
+        subfolderitems:
+        - title: Character Controller
+          url: /charactercontrolleroverview.html
+          output: web
+        - title: Player Animation
+          url: /playeranimationoverview.html
+          output: web
+      - title: Power System
+        output: web
+        subfolderitems:
+        - title: Devices and Power Sources Overview
+          url: /powersystem.html
+          output: web
+      - title: Terminal System
+        output: web
+        subfolderitems:
+        - title: Terminals Overview
+          url: /terminalsystem.html
+          output: web
   - title: Systems Planning
     output: web
     folderitems:

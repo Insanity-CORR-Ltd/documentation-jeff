@@ -5,7 +5,7 @@ type: Component
 # summary: "Template for how to document a system"
 keywords: doc
 sidebar: 
-permalink: charactercontroller.html
+permalink: charactercontrolleroverview.html
 folder: documentation
 ---
 

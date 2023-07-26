@@ -4,7 +4,7 @@ type: System
 # tags: [template]
 keywords: doc
 sidebar: 
-permalink: playeranimation.html
+permalink: playeranimationoverview.html
 folder: documentation
 ---
 
