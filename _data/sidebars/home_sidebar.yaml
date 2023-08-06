@@ -11,8 +11,14 @@ entries:
     - title: About
       url: /index.html
       output: web
-    - title: Feature Documentation Template
-      url: /doctemplate.html
+    - title: System Documentation Template
+      url: /sysdoctemplate.html
+      output: web
+    - title: Object Documentation Template
+      url: /objdoctemplate.html
+      output: web
+    - title: Component Documentation Template
+      url: /comdoctemplate.html
       output: web
   - title: Feature Documentation
     output: web

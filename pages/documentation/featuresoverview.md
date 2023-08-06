@@ -30,7 +30,7 @@ All documentation pages are represented in markdown. In each page, there is a he
     folder: documentation # The folder containing the relevant markdown file
     ---
 
-Follow the formatting outlined [here](doctemplate.html) when writing your document, and refer to [this](https://www.markdownguide.org/basic-syntax/) for Markdown syntax.
+Follow the formatting outlined [here](sysdoctemplate.html) when writing your document, and refer to [this](https://www.markdownguide.org/basic-syntax/) for Markdown syntax.
 
 In order for you page to appear in the sidebar, the following must be included in "home_sidebar.yaml" in the "/_data/sidebars" folder:
 
